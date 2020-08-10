@@ -1,15 +1,13 @@
 /*
 * @Author: Marte
+<<<<<<< HEAD
 * @Date:   2020-08-10 14:49:50
 * @Last Modified by:   Marte
-* @Last Modified time: 2020-08-10 15:20:57
+* @Last Modified time: 2020-08-10 15:34:58
 */
 
-public class java {
+public class SignIn {
     private int id;
     private String name;
-
-    public static void main(String[] args) {
-
-    }
+    private String sign_time;
 }
